@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hà Trí Kiên</h1>
-<h3 align="center">A Passionate Developer from Vietnam</h3>
+<h1 align="center" style="text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(255, 255, 255, 0.4);">Hi 👋, I'm Hà Trí Kiên</h1>
+<h3 align="center" style="text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(255, 255, 255, 0.4);">A Passionate Developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kienpc1234&label=Profile%20views&color=0e75b6&style=flat" alt="kienpc1234" /> </p>
 
