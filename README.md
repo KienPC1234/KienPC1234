@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 <body style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #f5f5f5;">
   <div style="background: linear-gradient(135deg, #1e3c72, #2a5298, #3b5998); padding: 25px; border-radius: 12px; text-align: center; color: white; box-shadow: 0 6px 12px rgba(0,0,0,0.2); margin: 30px 0;">
     <h1 style="margin: 0; font-size: 2.5em; text-shadow: 2px 2px 5px rgba(0,0,0,0.4);">Hi 👋, I'm Hà Trí Kiên</h1>
@@ -63,4 +57,3 @@
     <p style="margin: 0;">✨ Let's code the future together! ✨</p>
   </div>
 </body>
-</html>
