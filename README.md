@@ -48,11 +48,11 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 🌟 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kienpc1234&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&card_width=180" alt="Top Languages" width="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=kienpc1234&show_icons=true&locale=en&theme=dracula&hide_border=true&card_width=180" alt="GitHub Stats" width="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kienpc1234&theme=dracula&hide_border=true&card_width=180" alt="Streak Stats" width="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kienpc1234&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&card_width=220" alt="Top Languages" width="220">
+  <img src="https://github-readme-stats.vercel.app/api?username=kienpc1234&show_icons=true&locale=en&theme=dracula&hide_border=true&card_width=220" alt="GitHub Stats" width="220">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kienpc1234&theme=dracula&hide_border=true&card_width=220" alt="Streak Stats" width="220">
 </p>
 
 ---
