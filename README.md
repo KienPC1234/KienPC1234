@@ -5,9 +5,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kienpc1234&theme=onedark&margin-w=15" alt="kienpc1234" /></a>
 </div>
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-</div>
 
 ## 🚀 About Me
 - 🌱 **Currently Learning**: AI, Python, Deep Learning, and more!
