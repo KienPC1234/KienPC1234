@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 - 🌱 **Currently Learning**: AI, Python, Deep Learning, and more!
-- 📫 **Reach Me**: [kienpc872009@gmail.com](mailto:kienpc872009@gmail.com)
+- 📫 **Reach Me**: [admin@fptoj.com](mailto:admin@fptoj.com)
 - 💡 **Fun Fact**: I love blending creativity with code to build exciting projects!
 
 ---
