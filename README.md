@@ -25,6 +25,10 @@
   <a href="https://fb.com/hatrikienfhl31796" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30">
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/h%C3%A0-tr%C3%AD-ki%C3%AAn-319534355/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">
+  </a>
 </p>
 
 ---
