@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kienpc1234&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
   <br><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kienpc1234&amp;theme=dracula&amp;margin-w=8&amp;margin-h=8&amp;no-frame=true&amp;column=6" alt="Trophies" />
+    <img src="./profile/trophy.svg" alt="Trophies" />
   </a>
 </div>
 
