@@ -1,6 +1,9 @@
 name: Update README cards
+
 on:
-  workflow_dispatch: 
+  workflow_dispatch: # Vẫn giữ để bạn có thể bấm nút chạy thủ công bất cứ lúc nào
+  schedule:
+    - cron: '0 0 * * 0' # 🚀 TỰ ĐỘNG CHẠY VÀO 00:00 CHỦ NHẬT HÀNG TUẦN (Giờ UTC)
 
 # Cấp quyền GHI cho bot để nó có thể push file lên Github
 permissions:
@@ -28,10 +31,18 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate GitHub Trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # theme: dracula # Bỏ dấu # ở đầu dòng này nếu bạn muốn đổi sang theme dracula cho đồng bộ
+
       - name: Commit cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README cards and trophies weekly" || exit 0
           git push
