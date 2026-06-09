@@ -37,7 +37,11 @@ jobs:
           username: ${{ github.repository_owner }}
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          # theme: dracula # Bỏ dấu # ở đầu dòng này nếu bạn muốn đổi sang theme dracula cho đồng bộ
+          theme: dracula
+          margin-w: 8
+          margin-h: 8
+          no-frame: true
+          column: 6
 
       - name: Commit cards
         run: |
