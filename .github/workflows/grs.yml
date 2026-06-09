@@ -35,13 +35,13 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          file: profile/trophy.svg    
           theme: dracula
-          margin-w: 8
-          margin-h: 8
+          margin-width: 8               
+          margin-height: 8            
+          max-cols: 6              
           no-frame: true
-          column: 6
 
       - name: Commit cards
         run: |
