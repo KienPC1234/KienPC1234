@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🌱 **Currently Learning**: AI, Python, Deep Learning, and more!
-- 📫 **Reach Me**: [admin@fptoj.com](mailto:admin@fptoj.com)
+- 📫 **Reach Me**: [hatrikien@acmc.vn](mailto:hatrikien@acmc.vn)
 - 💡 **Fun Fact**: I love blending creativity with code to build exciting projects!
 
 ---
@@ -29,12 +29,8 @@
 
 ### 🌟 My GitHub Stats
 <div align="center">
-  <!-- Gọi ảnh nội bộ do GitHub Actions tạo ra -->
   <img src="./profile/top-langs.svg" alt="Top Languages" />
   <img src="./profile/stats.svg" alt="GitHub Stats" />
-  <br><br>
-  <!-- Thẻ Streak vẫn chạy tốt trên server Heroku nên giữ nguyên -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kienpc1234&amp;theme=dracula&amp;hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
