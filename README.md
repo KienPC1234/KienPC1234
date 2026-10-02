@@ -1,4 +1,4 @@
-# Ha Tri Kien
+# Ha Tri Kien <img src="https://komarev.com/ghpvc/?username=kienpc1234&label=Views&color=555555&style=flat-square" alt="Profile views" />
 
 I am a software developer exploring the practical side of Artificial Intelligence and deep learning. I build applications using C# C++ Java and Python. I spend my time writing code and turning complex technical ideas into reliable systems.
 
@@ -18,7 +18,3 @@ I am a software developer exploring the practical side of Artificial Intelligenc
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kienpc1234&label=Views&color=555555&style=flat-square" alt="Profile views" />
-</div>
