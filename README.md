@@ -1,40 +1,24 @@
+# Ha Tri Kien
+
+I am a software developer exploring the practical side of Artificial Intelligence and deep learning. I build applications using C# C++ Java and Python. I spend my time writing code and turning complex technical ideas into reliable systems.
+
+[Email](mailto:hatrikien@acmc.vn) • [LinkedIn](https://www.linkedin.com/in/hà-trí-kiên-319534355/)
+
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=28&amp;color=1E3C72&amp;center=true&amp;vCenter=true&amp;width=450&amp;lines=Hi+👋,+I'm+Hà+Trí+Kiên" alt="Typing SVG" />
-  <br>
-  <h3>A Passionate Developer from Vietnam 🇻🇳</h3>
-  <img src="https://komarev.com/ghpvc/?username=kienpc1234&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
-  <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="./profile/trophy.svg" alt="Trophies" />
-  </a>
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
 </div>
 
----
-
-### 🚀 About Me
-- 🌱 **Currently Learning**: AI, Python, Deep Learning, and more!
-- 📫 **Reach Me**: [hatrikien@acmc.vn](mailto:hatrikien@acmc.vn)
-- 💡 **Fun Fact**: I love blending creativity with code to build exciting projects!
-
----
+<br>
 
 <div align="center">
-  <h3>🌐 Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/h%C3%A0-tr%C3%AD-ki%C3%AAn-319534355/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
-  </a>
+  <img src="./profile/trophy.svg" alt="Trophies" width="100%" />
 </div>
 
----
-
-### 🌟 My GitHub Stats
-<div align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-</div>
-
----
+<br>
 
 <div align="center">
-  <b>✨ Let's code the future together! ✨</b>
+  <img src="https://komarev.com/ghpvc/?username=kienpc1234&label=Views&color=555555&style=flat-square" alt="Profile views" />
 </div>
