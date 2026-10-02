@@ -1,6 +1,6 @@
 # Ha Tri Kien <img src="https://komarev.com/ghpvc/?username=kienpc1234&label=Views&color=555555&style=flat-square" alt="Profile views" />
 
-I am a software developer exploring the practical side of Artificial Intelligence and deep learning. I build applications using C# C++ Java and Python. I spend my time writing code and turning complex technical ideas into reliable systems.
+Driven software developer exploring the practical side of Artificial Intelligence and Deep Learning. I leverage C# C++ Java and Python to write clean code and transform complex technical ideas into reliable real-world systems.
 
 [Email](mailto:hatrikien@acmc.vn) • [LinkedIn](https://www.linkedin.com/in/hà-trí-kiên-319534355/)
 
