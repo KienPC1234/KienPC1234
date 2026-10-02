@@ -7,7 +7,7 @@ Driven software developer exploring the practical side of Artificial Intelligenc
 <br>
 
 <div align="center">
-  <img src="./profile/trophy.svg" alt="Trophies" width="100%" />
+  <img src="./profile/trophy.svg" alt="Trophies" width="80%" />
 </div>
 
 <br>
