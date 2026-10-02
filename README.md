@@ -7,12 +7,12 @@ Driven software developer exploring the practical side of Artificial Intelligenc
 <br>
 
 <div align="center">
-  <img src="./profile/trophy.svg" alt="Trophies" width="80%" />
+  <img src="./profile/trophy.svg" alt="Trophies" width="85%" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" height="165" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="165" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
 </div>
