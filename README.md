@@ -7,14 +7,12 @@ I am a software developer exploring the practical side of Artificial Intelligenc
 <br>
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
+  <img src="./profile/trophy.svg" alt="Trophies" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./profile/trophy.svg" alt="Trophies" width="100%" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="165" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="165" />
 </div>
-
-<br>
